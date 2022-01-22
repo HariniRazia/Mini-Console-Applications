@@ -5,7 +5,7 @@
  1. ATM Application
  2. Amazon Shopping Application
  3. Railway Application
- 4. Library Management System
+ 4. Library Management Application
  ```
 
 # 1. ATM Application
@@ -43,4 +43,21 @@ PASSWORD - {"12", "34", "56"}
 ```
 ID - HarRaz
 PASSWORD - 48
+```
+## User
+```
+ID - Harini
+PASSWORD - 48
+```
+
+# 4. Library Management Application
+## Admin
+```
+ID - harini@gmail.com
+PASSWORD - 48
+```
+## Borrower
+```
+ID - razia@gmail.com
+PASSWORD - 12345
 ```
