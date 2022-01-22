@@ -17,7 +17,7 @@ PASSWORD - 48
 ## User
 
 ```
-ID -  { "Harini", "Razia", "Shravani" }
+ID - { "Harini", "Razia", "Shravani" }
 PASSWORD - { "1234", "567", "1001" }
 ```
 
