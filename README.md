@@ -41,7 +41,7 @@ PASSWORD - {"12", "34", "56"}
 # 3. Railway Application
 ## Admin
 ```
-ID - HarRaz
+ID - Harini
 PASSWORD - 48
 ```
 ## User
