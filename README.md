@@ -61,3 +61,9 @@ PASSWORD - 48
 ID - razia@gmail.com
 PASSWORD - 12345
 ```
+# 5. SplitWise Application
+## Login
+```
+ID - harini@gmail.com
+PASSWORD - 48
+```
