@@ -67,7 +67,7 @@ PASSWORD - 12345
 ID - harini@gmail.com
 PASSWORD - 48
 ```
-# 4. Vehicle Rental Application
+# 6. Vehicle Rental Application
 ## Admin
 ```
 ID - harini@gmail.com
